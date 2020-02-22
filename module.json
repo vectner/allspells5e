@@ -28,7 +28,7 @@
       "package": "world"
     }
     ],
-    "url": "https://raw.githubusercontent.com/vectner/allspells5e",
-    "manifest": "https://raw.githubusercontent.com/vectner/allspells5e",
-    "download": "https://raw.githubusercontent.com/vectner/allspells5e/master/module.json"
+    "url": "https://github.com/vectner/allspells5e",
+    "manifest": "https://raw.githubusercontent.com/vectner/allspells5e/master/module.json",
+    "download": "https://github.com/vectner/allspells5e/blob/zip/allspells5e.zip"
 }
