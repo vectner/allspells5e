@@ -1,0 +1,2 @@
+# allspells5e
+myspells
